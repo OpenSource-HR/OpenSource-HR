@@ -32,9 +32,6 @@ Inside this profile, you will find:
 - **Database**: ready-to-use databases for reporting and dashboards, sometimes with a dashboard already prepared! 📝
 - **Tools**: ready-to-use tools to enhance your experience at work or to facilitate your job searching activities ✨
 
-### 🙌 Contribute
-Contributions are always welcome! Check our [CONTRIBUTING.md](#) to learn how you can get involved. Together, we can drive HR innovation. 🌱
-
 ---
 
 ## 🏆 Why OpenSource HR Matters
